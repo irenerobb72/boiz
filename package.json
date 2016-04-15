@@ -1,0 +1,20 @@
+{
+  "name": "boiz",
+  "version": "1.0.0",
+  "description": "just a bunch of dancing stick figures",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irenerobb72/boiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irenerobb72/boiz/issues"
+  },
+  "homepage": "https://github.com/irenerobb72/boiz#readme"
+}
